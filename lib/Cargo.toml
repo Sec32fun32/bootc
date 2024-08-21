@@ -28,7 +28,7 @@ indicatif = "0.17.8"
 libc = { workspace = true }
 liboverdrop = "0.1.0"
 libsystemd = "0.7"
-openssl = "^0.10.64"
+openssl = "^0.10.66"
 regex = "1.10.4"
 rustix = { "version" = "0.38.34", features = ["thread", "fs", "system", "process"] }
 schemars = { version = "0.8.17", features = ["chrono"] }
